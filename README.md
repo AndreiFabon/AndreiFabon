@@ -22,7 +22,6 @@ I'm a 2nd-year Honors Computer Science student with a passion for **Cybersecurit
 
 ### **Tools & Technologies**  
 - Git, VS Code, MS Excel  
-- Cybersecurity Tools (e.g., Wireshark, Metasploit)  
 
 ---
 
