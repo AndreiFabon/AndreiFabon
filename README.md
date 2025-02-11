@@ -16,7 +16,7 @@ I'm a 2nd-year Honors Computer Science student with a passion for **Cybersecurit
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/andreifabon/](https://www.linkedin.com/in/andreifabon/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreifabon/)
 
 ## 🛠 **Skills**
 
