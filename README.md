@@ -29,6 +29,9 @@ I'm a 2nd-year Honors Computer Science student with a passion for <b>Cybersecuri
 ### **Developer Tools**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### **Frameworks**  
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or chat about all things Cybersecurity and AI! 🔐🤖
