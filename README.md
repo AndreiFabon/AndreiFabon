@@ -1,4 +1,4 @@
-<h1 align="center"># Hi! I'm Andrei Fabon👋</h1>
+<h1 align="center">Hi! I'm Andrei Fabon👋</h1>
 I'm a 2nd-year Honors Computer Science student with a passion for **Cybersecurity** and **AI**. Welcome to my GitHub profile! 🚀
 
 ---
