@@ -9,10 +9,6 @@ I'm a 2nd-year Honors Computer Science student with a passion for <b>Cybersecuri
   - 🎯 **Vice President (External)** at **CHADS (Cyber Security, Hacking, and Digital Security Club)**  
     - **Challenge Developer** for *Hack The Computer Open the Box (HTCOB)*—designing hands-on cybersecurity challenges.  
     - Collaborate with a dedicated team to promote cybersecurity awareness through events and workshops.
-- **What I am working on:**  
-  - **Challenge Developer** for *Hack The Computer Open the Box (HTCOB)*—designing hands-on cybersecurity challenges.
-    - Craeating Website that uses path dsicovery to challange participants to look at more than just the website exterior
-    - Creating a Website with intentional SQL injection issues for participants to exploit 
 ---
 
 ## 🌐 Connect with me:
