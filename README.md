@@ -11,6 +11,8 @@ I'm a 2nd-year Honors Computer Science student with a passion for <b>Cybersecuri
     - Collaborate with a dedicated team to promote cybersecurity awareness through events and workshops.
 - **What I am currently working on:**  
   - **Creating my Personal Website:** I hope to build my own personal website where I will post projects, CTF write ups, and a platform for people to learn more about me and who I am as a person!
+- **Other Things I like to do:**  
+  - **Compete in Case Comps:** I enjoy the thrill of public speaking and fast-paced problem solving. Case comps give me the perfect space to sharpen those skills—working under pressure, crafting well-thought-out solutions, and delivering them with clarity and confidence
 ---
 
 ## 🌐 Connect with me:
