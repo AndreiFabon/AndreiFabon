@@ -4,7 +4,7 @@ I'm a 2nd-year Computer Science AI specialization student with a passion for <b>
 ---
 
 ## 📚 **About Me**
-- **Education:** 2nd Year Computer Science Honors student at the University of Alberta.  
+- **Education:** 2nd Year Computer specialization in AI student at the University of Alberta (Mouthful I know).  
 - **Current Roles:**  
   - 🎯 **Vice President (External)** at **CHADS (Cyber Security, Hacking, and Digital Security Club)**  
     - **Challenge Developer** for *Hack The Computer Open the Box (HTCOB)*—designing hands-on cybersecurity challenges.  
