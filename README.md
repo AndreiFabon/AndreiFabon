@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Andrei Fabon👋</h1>
 I'm a 2nd-year Computer Science AI specialization student with a passion for <b>Cybersecurity</b> and <b>AI</b>. Welcome to my GitHub profile! 🚀
 
+[![GitHub Streak](https://streak-stats.demolab.com/AndreiFabon=DenverCoder1)](https://git.io/streak-stats)
+
 ---
 
 ## 📚 **About Me**
