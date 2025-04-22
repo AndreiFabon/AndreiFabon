@@ -31,12 +31,14 @@ I'm a 2nd-year Computer Science AI specialization student with a passion for <b>
 ### Tools & Technologies  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ### **Frameworks/Libraries**  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
+---
 Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate or chat about all things Cybersecurity and AI! 🔐🤖
 <!---
 AndreiFabon/AndreiFabon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
