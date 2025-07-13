@@ -4,6 +4,12 @@ I'm a Computer Science student at the University of Alberta with a deep passion 
 
 ---
 
+## **Check out my Personal Website**
+
+[![Website](https://img.shields.io/badge/Website-trickydrey.xyz-blue?style=for-the-badge)](https://trickydrey.xyz/)
+
+---
+
 ## 📚 **About Me**
 
 - **Education:** Computer Science student at the University of Alberta
