@@ -6,9 +6,7 @@ I'm a Computer Science student at the University of Alberta with a deep passion 
 
 ## **Check out my Personal Website**
 
-<a href="https://trickydrey.xyz/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-trickydrey.xyz-blue?style=for-the-badge" alt="Website">
-</a>
+[![Website](https://img.shields.io/badge/Website-trickydrey.xyz-blue?style=for-the-badge)](https://trickydrey.xyz/)
 
 ---
 
