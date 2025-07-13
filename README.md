@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Alberta with a deep passion 
 - **Other Things I like to do:**
    - **Compete in CTFs:** Thrive in high-pressure problem-solving environments, tackling complex security challenges with my team
    - **Case Competitions:** Enjoy the combination of analytical thinking, teamwork, and presentation skills under tight deadlines
-   - **Hiking:** If I am not competing, I love the outdoors and you can often find me on a hike or backpacking ⛰️
+   - **Hiking:** If I am not competing, you can often find me on a hike or backpacking in the mountains (I love the outdoors ⛰️)
 
 ---
 
