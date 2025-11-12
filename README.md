@@ -14,7 +14,7 @@ I'm a Computer Science student at the University of Alberta with a deep passion 
 
 - **Education:** Computer Science student at the University of Alberta
 - **Current Roles:**
-   - 🎯 **Vice President (External)** at **CHADS (Cyber Security, Hacking, and Digital Security Club)**
+   - 🎯 **President** at **CHADS (Cyber Security, Hacking, and Digital Security Club)**
    - **Challenge Developer** for *Hack The Computer Open the Box (HTCOB)*—designing hands-on cybersecurity challenges
    - **Cybersecurity Mentor** for CHADS' 8-week summer mentorship program, helping newcomers dive into CTFs
    - Collaborate with a dedicated team to promote cybersecurity awareness through events and workshops
@@ -61,6 +61,7 @@ I'm a Computer Science student at the University of Alberta with a deep passion 
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 
 ---
 
