@@ -34,6 +34,7 @@ I'm a Computer Science student at the University of Alberta with a deep passion 
 - 🥉 **3rd Place** - Illuminati CTF (University of Saskatchewan)
 - 🏆 **8th Place Nationally** - NCC CTF 2025 Banff (among top university teams all across Canada)
 - 🥈 **2nd Place** - Students for Machine Learning in Business Case Competition
+- 🥈 **2nd Place** - Vault 403 CTF (SAIT CTF)
 
 ---
 
